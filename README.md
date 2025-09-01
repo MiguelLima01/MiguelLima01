@@ -1,17 +1,17 @@
 <!-- ========================= HEADER ========================= -->
-<h1 align="center"> oque voce ta fazendo aqui? </h1>
+<h1 align="center">👋 Olá! Eu sou Miguel Lima</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="200"/>
 </p>
 <p align="center">
-  ✨ Desenvolvedor(a) Fullstack | Apaixonado(a) por Open Source | Criativo(a) 💡
+  ✨ Desenvolvedor Fullstack | Apaixonado por Open Source | Criativo 💡
 </p>
 
 <!-- ========================= BADGES ========================= -->
 <p align="center">
-  ![GitHub followers](https://img.shields.io/github/followers/seu-usuario?style=social)
-  ![GitHub stars](https://img.shields.io/github/stars/seu-usuario?style=social)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+  ![GitHub followers](https://img.shields.io/github/followers/MiguelLima01?style=social)
+  ![GitHub stars](https://img.shields.io/github/stars/MiguelLima01?style=social)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelLima01&layout=compact&theme=radical)
   ![Python](https://img.shields.io/badge/Python-3.11-blue)
   ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
   ![React](https://img.shields.io/badge/React-17.0.2-blue?logo=react)
@@ -53,8 +53,8 @@
 <summary>📈 Estatísticas GitHub</summary>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelLima01&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelLima01&theme=radical" />
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="120"/>
@@ -68,8 +68,8 @@
 <summary>💬 Contato</summary>
 <br>
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/seu-perfil)
-  [![Twitter](https://img.shields.io/badge/Twitter-Profile-1DA1F2?logo=twitter)](https://twitter.com/seu-usuario)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/MiguelLima01)
+  [![Twitter](https://img.shields.io/badge/Twitter-Profile-1DA1F2?logo=twitter)](https://twitter.com/MiguelLima01)
   [![Email](https://img.shields.io/badge/Email-Enviar-red?logo=gmail)](mailto:seu@email.com)
 </p>
 <p align="center">
