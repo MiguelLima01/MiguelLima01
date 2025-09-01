@@ -1,40 +1,78 @@
-# ✨ Olá, mundo! Eu sou o Miguel 👾  
+<!-- ========================= HEADER ========================= -->
+<h1 align="center">👋 Olá! Eu sou [Seu Nome]</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
+</p>
+<p align="center">
+  ✨ Desenvolvedor(a) Fullstack | Apaixonado(a) por Open Source | Criativo(a) 💡
+</p>
 
-> "A persistência é o caminho do êxito." — *Naruto Uzumaki* 🍜  
-
-🎓 Recém-formado no ensino médio, em busca da minha primeira oportunidade na área de **TI**.  
-💻 Estudante de programação apaixonado por **tecnologia**, **animes** e **resolver problemas**.  
-🚀 Sempre em evolução e explorando novos mundos (digitais e imaginários).  
-
----
-
-## ⚔️ Skills & Ferramentas  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-
----
-
-## 📊 Status do GitHub  
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelLima01&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelLima01&layout=compact&theme=tokyonight)  
+<!-- ========================= BADGES ========================= -->
+<p align="center">
+  ![GitHub followers](https://img.shields.io/github/followers/seu-usuario?style=social)
+  ![GitHub stars](https://img.shields.io/github/stars/seu-usuario?style=social)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+  ![Python](https://img.shields.io/badge/Python-3.11-blue)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+  ![React](https://img.shields.io/badge/React-17.0.2-blue?logo=react)
+</p>
 
 ---
 
-## 🎌 Fun facts sobre mim  
-- 🍜 Grande fã de animes (One Piece, Naruto, Jujutsu Kaisen e cia).  
-- 🎮 Gamer nas horas vagas (e às vezes nas horas não tão vagas 😅).  
-- 💡 Curioso por novas tecnologias e sempre aprendendo algo novo.  
+<!-- ========================= SOBRE MIM ========================= -->
+<details>
+<summary>🧑 Sobre mim</summary>
+<br>
+- 🎓 Estudante/Dev Fullstack apaixonado(a) por criar experiências digitais incríveis.  
+- 💡 Amo aprender novas tecnologias e compartilhar conhecimento.  
+- 🌱 Atualmente explorando **AI, DevOps e Web3**.  
+- ⚡ Fun fact: Consumo mais café do que código! ☕
+</details>
 
 ---
 
-## 🌎 Onde me encontrar  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seuusuario)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusuario)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)  
+<!-- ========================= PROJETOS ========================= -->
+<details>
+<summary>🚀 Projetos em destaque</summary>
+<br>
+
+| Projeto | Descrição | Status |
+|---------|-----------|--------|
+| [Projeto 1](#) | App interativo de visualização de dados | 🔥 Em desenvolvimento |
+| [Projeto 2](#) | Chatbot com AI e integração web | ✅ Concluído |
+| [Projeto 3](#) | Dashboard de análise de GitHub | 🛠️ Em progresso |
+
+</details>
 
 ---
 
-⭐ *"Keep coding and keep dreaming."*  
+<!-- ========================= ESTATÍSTICAS ========================= -->
+<details>
+<summary>📈 Estatísticas GitHub</summary>
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical" />
+</p>
+</details>
+
+---
+
+<!-- ========================= CONTATO ========================= -->
+<details>
+<summary>💬 Contato</summary>
+<br>
+<p align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/seu-perfil)
+  [![Twitter](https://img.shields.io/badge/Twitter-Profile-1DA1F2?logo=twitter)](https://twitter.com/seu-usuario)
+  [![Email](https://img.shields.io/badge/Email-Enviar-red?logo=gmail)](mailto:seu@email.com)
+</p>
+</details>
+
+---
+
+<!-- ========================= FRASE MOTIVACIONAL ========================= -->
+<p align="center">
+  "🚀 Code. Create. Repeat. Transforme ideias em realidade!"  
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100"/>
+</p>
