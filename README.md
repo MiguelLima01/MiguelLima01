@@ -9,12 +9,9 @@
 
 <!-- ========================= BADGES ========================= -->
 <p align="center">
-  [![GitHub](https://img.shields.io/badge/GitHub-🔗-181717?logo=github&logoColor=white)](https://github.com/MiguelLima01)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-🔗-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/MiguelLima01)
-  [![Twitter](https://img.shields.io/badge/Twitter-🔗-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/MiguelLima01)
-  ![Python](https://img.shields.io/badge/Python-3.11-blue)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-  ![React](https://img.shields.io/badge/React-17.0.2-blue?logo=react)
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiguelLima01)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MiguelLima01)
+  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MiguelLima01)
 </p>
 
 ---
@@ -68,10 +65,10 @@
 <summary>💬 Contato</summary>
 <br>
 <p align="center">
-  [![GitHub](https://img.shields.io/badge/GitHub-🔗-181717?logo=github&logoColor=white)](https://github.com/MiguelLima01)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-🔗-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/MiguelLima01)
-  [![Twitter](https://img.shields.io/badge/Twitter-🔗-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/MiguelLima01)
-  [![Email](https://img.shields.io/badge/Email-🔗-D14836?logo=gmail&logoColor=white)](mailto:seu@email.com)
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiguelLima01)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MiguelLima01)
+  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MiguelLima01)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="120"/>
