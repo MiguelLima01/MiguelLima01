@@ -36,8 +36,8 @@
 
 | Projeto | Descrição | Status |
 |---------|-----------|--------|
-| [Projeto 1](#) | App interativo de visualização de dados | 🔥 Em desenvolvimento |
-| [Projeto 2](#) | Chatbot com AI e integração web | ✅ Concluído |
+| [Projeto 1](#) | Site pessoal / Portfólio | 🔥 Em desenvolvimento |
+| [Projeto 2](#) | App web interativo | 🔥 Em desenvolvimento |
 | [Projeto 3](#) | Dashboard de análise de GitHub | 🛠️ Em progresso |
 | [Projeto secreto](#) | Algo totalmente **não relacionado com a realidade** | 👀 Em sigilo |
 
