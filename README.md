@@ -1,5 +1,5 @@
 <!-- ========================= HEADER ========================= -->
-<h1 align="center">👋 Olá! Eu sou [Miguel]</h1>
+<h1 align="center"> oque voce ta fazendo aqui? </h1>
 <p align="center">
   <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="200"/>
 </p>
