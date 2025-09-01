@@ -18,11 +18,11 @@
 
 <!-- ========================= SOBRE MIM ========================= -->
 <details>
-<summary>🧑 Sobre mim</summary>
+<summary> Um pouco sobre Mim</summary>
 <br>
 - 🎓 Estudante/Dev Fullstack e aspirante a **herói do código**  
-- 💡 Apaixonado por tecnologias e criar experiências digitais épicas  
-- 🌱 Atualmente explorando AI, DevOps e Web3  
+- 💡 Apaixonado por tecnologias e criar experiências digitais 
+- 🌱 Atualmente explorando AI e Web
 - ⚡ Fun fact: Faço mais commits que café consumo ☕  
 - 🐱 GIF favorito: **gato estiloso de anime** 😼  
 </details>
@@ -79,7 +79,7 @@
 
 <!-- ========================= FRASE MOTIVACIONAL ========================= -->
 <p align="center">
-  "🚀 Code. Create. Repeat. Transforme ideias em realidade!"  
+  "🚀 Codifique. Crie. Repita. Transforme ideias em realidade!"  
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100"/>
 </p>
 
